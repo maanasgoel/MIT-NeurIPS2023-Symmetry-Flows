@@ -24,6 +24,8 @@ This section provides a detailed breakdown of the key files and notebooks within
 
 -   `MIT_Gravitational_Waves_Research_Report_2023_Maanas_Goel.pdf`
     -   This is my final, comprehensive research report for the project. It can also be viewed on [Overleaf](https://www.overleaf.com/read/kmxckfhbvdvg).
+-   `NeurIPS_2023_ML4PS_Paper.pdf`
+    -   The published NeurIPS 2023 workshop paper.
 
 ### Damped Harmonic Oscillator (DHO) Notebooks
 
