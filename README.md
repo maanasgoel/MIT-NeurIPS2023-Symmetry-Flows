@@ -2,7 +2,7 @@
 
 This project was developed during a scientific research internship in Summer 2023 at the MIT LIGO Laboratory, which is hosted by the MIT Kavli Institute for Astrophysics and Space Research (MKI). LIGO is a joint effort between Caltech and MIT, supported by the National Science Foundation, focused on detecting and studying gravitational waves. This research was supervised by MIT Research Scientists Dr. Deep Chatterjee and Dr. Erik Katsavounidis, and supported by NSF award 2117997.
 
-This branch of the repository contains notebooks and weights of trained models used for the [ML4PS](https://ml4physicalsciences.github.io/2023/) workshop (submission 69) at NeurIPS 2023. The final paper can be found [here](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_69.pdf).
+This branch of the repository contains notebooks and weights of trained models used for the [ML4PS](https://ml4physicalsciences.github.io/2023/) workshop (submission 69) at NeurIPS 2023. The final paper can be found [here](reports/NeurIPS_2023_ML4PS_Paper.pdf), along with my [research report](reports/MIT_Gravitational_Waves_Research_Report_2023_Maanas_Goel.pdf).
 
 #### **Contributor:** Maanas Goel ([Email](mailto:maanasgoel5@gmail.com), [LinkedIn](https://www.linkedin.com/in/maanas-goel/))
 
