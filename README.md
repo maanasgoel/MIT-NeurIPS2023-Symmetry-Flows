@@ -1,8 +1,8 @@
 # Optimizing Likelihood-free Inference using Self-supervised Neural Symmetry Embeddings
 
-This project was developed during a scientific research internship in Summer 2023 at the MIT LIGO Laboratory, which is hosted by the MIT Kavli Institute for Astrophysics and Space Research (MKI). LIGO is a joint effort between Caltech and MIT, supported by the National Science Foundation, focused on detecting and studying gravitational waves. This research was supervised by MIT Research Scientists Dr. Deep Chatterjee and Dr. Erik Katsavounidis, and supported by NSF award 2117997. This work was done as part of [ML4GW](https://github.com/ML4GW).
+This project was developed during a scientific research internship in Summer 2023 at the MIT LIGO Laboratory, which is hosted by the MIT Kavli Institute for Astrophysics and Space Research (MKI). LIGO is a joint effort between Caltech and MIT, supported by the National Science Foundation, focused on detecting and studying gravitational waves. This research was supervised by MIT Research Scientists Dr. Deep Chatterjee and Dr. Erik Katsavounidis, and supported by NSF award 2117997.
 
-This branch of the repository contains notebooks and weights of trained models used for the [ML4PS](https://ml4physicalsciences.github.io/2023/) workshop (submission 69) at NeurIPS 2023. The final paper draft can be found in the [papers](https://ml4physicalsciences.github.io/2023/#papers) section of the workshop website.
+This branch of the repository contains notebooks and weights of trained models used for the [ML4PS](https://ml4physicalsciences.github.io/2023/) workshop (submission 69) at NeurIPS 2023. The final paper can be found [here](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_69.pdf).
 
 #### **Contributor:** Maanas Goel ([Email](mailto:maanasgoel5@gmail.com), [LinkedIn](https://www.linkedin.com/in/maanas-goel/))
 
